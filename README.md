@@ -1,3 +1,3 @@
-# Tutorials-and-Resources
+* Documentation host
 * Tutorial Jupyter notebooks for the packages of JuliaDynamics
 * Resources (images/animations) used in documentation pages or tutorials
